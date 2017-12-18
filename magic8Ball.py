@@ -2,6 +2,8 @@
 import random
 
 # creating a function 'getanswer'
+
+
 def getAnswer(answerNumber):
     # If , Elif , Else are all used to return values for 'getanswer'
     if answerNumber == 1:
@@ -22,6 +24,7 @@ def getAnswer(answerNumber):
         return 'Outlook is not so good'
     elif answerNumber == 9:
         return 'Very doubtful'
+
 
 # r gives a random value between 1 - 9 based on the module random
 # int is used to change given value to a integer to be used
