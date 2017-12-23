@@ -5,6 +5,7 @@ def hello():
     print('Ooo Wee!!!')
     print('Hello World!')
 
+
 # Calls on the function hello()
 hello()
 hello()
