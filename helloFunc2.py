@@ -4,6 +4,7 @@ def hello(name):
     # Parameter is a variable stored in function until next call
     print('Hello ' + name)
 
+
 hello('Christian')
 # Parameter 'name' is replaced with 'General'
 hello('General')
