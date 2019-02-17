@@ -7,43 +7,43 @@ import random
 def getAnswer(answerNumber):
     # If , Elif , Else are all used to return values for 'getanswer'
     if answerNumber == 1:
-        return 'Fail'
+        return 'Fail_1'
     elif answerNumber == 2:
-        return 'Fail'
+        return 'Fail_2'
     elif answerNumber == 3:
-        return 'Fail'
+        return 'Fail_3'
     elif answerNumber == 4:
-        return 'Fail'
+        return 'Fail_4'
     elif answerNumber == 5:
-        return 'Fail'
+        return 'Fail_5'
     elif answerNumber == 6:
-        return 'Fail'
+        return 'Fail_6'
     elif answerNumber == 7:
-        return 'Fail'
+        return 'Fail_7'
     elif answerNumber == 8:
-        return 'Fail'
+        return 'Fail_8'
     elif answerNumber == 9:
-        return 'Fail'
+        return 'Fail_9'
     elif answerNumber == 10:
-        return 'Fail'
+        return 'Fail_10'
     elif answerNumber == 11:
-        return 'Fail'
+        return 'Fail_11'
     elif answerNumber == 12:
-        return 'Fail'
+        return 'Fail_12'
     elif answerNumber == 13:
-        return 'Fail'
+        return 'Fail_13'
     elif answerNumber == 14:
-        return 'Fail'
+        return 'Fail_14'
     elif answerNumber == 15:
-        return 'Fail'
+        return 'Fail_15'
     elif answerNumber == 16:
-        return 'Fail'
+        return 'Fail_16'
     elif answerNumber == 17:
-        return 'Fail'
+        return 'Fail_17'
     elif answerNumber == 18:
-        return 'Fail'
+        return 'Fail_18'
     elif answerNumber == 19:
-        return 'Fail'
+        return 'Fail_19'
     elif answerNumber == 20:
         return 'Success'
 
